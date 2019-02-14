@@ -15,4 +15,4 @@ Add hotkeys as startup program:
 
 |Key                                                |Action  |
 |---------------------------------------------------|--------|
-|<kbd>Shift</kbd> + <kbd>Enter</kbd>        | Same as Pressing <kbd>Enter</kbd> |
+|<kbd>Shift</kbd> + <kbd>Enter</kbd>        | Same as pressing <kbd>Enter</kbd> |
