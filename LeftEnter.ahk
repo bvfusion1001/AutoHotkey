@@ -1,2 +1,2 @@
-;; `Shift`+`Capslock`=`Enter`
-+Capslock::Enter
+;; `Ctrl`+`Capslock`=`Enter`
+^Capslock::Enter
