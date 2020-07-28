@@ -11,8 +11,21 @@ Add hotkeys as startup program:
 2. Enter `shell:startup`.
 3. Create a shortcut to the `*.ahk` files you want to run on startup.
 
-### Shortcuts
+## Shortcuts
+### LeftEnter
 
 |Key                                                |Action  |
 |---------------------------------------------------|--------|
 |<kbd>Ctrl</kbd> + <kbd>Enter</kbd>        | Same as pressing <kbd>Enter</kbd> |
+
+### SpotifyHotkeys
+|Key                                                |Action  |
+|---------------------------------------------------|--------|
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>        | Pause / Play |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>a</kbd>        | Previous |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>s</kbd>        | Next |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>q</kbd>        | Seek Backward |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd>        | Seek Forward |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>CapsLock</kbd>        | Open / Close Spotify |
+|<kbd>Shift</kbd> + <kbd>Volume Down</kbd>        | Spotify Volume Down |
+|<kbd>Shift</kbd> + <kbd>Volume Up</kbd>        | Spotify Volume Down |
