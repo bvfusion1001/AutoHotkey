@@ -22,10 +22,10 @@ Add hotkeys as startup program:
 |Key                                                |Action  |
 |---------------------------------------------------|--------|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>        | Pause / Play |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>a</kbd>        | Previous |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>s</kbd>        | Next |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>q</kbd>        | Seek Backward |
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd>        | Seek Forward |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>q</kbd>        | Previous |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd>        | Next |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Up</kbd>        | Seek Backward |
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Down</kbd>        | Seek Forward |
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>CapsLock</kbd>        | Open / Close Spotify |
 |<kbd>Shift</kbd> + <kbd>Volume Down</kbd>        | Spotify Volume Down |
 |<kbd>Shift</kbd> + <kbd>Volume Up</kbd>        | Spotify Volume Down |

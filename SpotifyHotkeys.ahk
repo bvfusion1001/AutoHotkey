@@ -29,28 +29,28 @@ spotifyKey(key) {
 }
 
 ; Ctrl+Shift+Right: Next
-^+s::
+^+w::
 {
 	spotifyKey("^{Right}")
 	Return
 }
 
 ; Ctrl+Shift+Left: Previous
-^+a::
+^+q::
 {
 	spotifyKey("^{Left}")
 	Return
 }
 
 ; Ctrl+Shift+Up: Seek forward
-^+w::
+^+Up::
 {
 	spotifyKey("+{Right}")
 	Return
 }
 
 ; Ctrl+Shift+Down: Seek backward
-^+q::
+^+Down::
 {
 	spotifyKey("+{Left}")
 	Return
